@@ -3,8 +3,6 @@
 //  Pre-Emptive Shortest Job First
 //
 //  Created by Aniket Mitra on 01/11/14.
-//  Copyright (c) 2014 Aniket Mitra. All rights reserved.
-//
 
 #include<stdio.h>
 
